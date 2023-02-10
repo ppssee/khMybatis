@@ -26,4 +26,12 @@ public class SqlSessionTemplate {
 		
 		return session;
 	}
+	
+	
+//	String resource = "org/mybatis/example/mybatis-config.xml";
+//	InputStream inputStream = Resources.getResourceAsStream(resource);
+//	SqlSessionFactory sqlSessionFactory =
+//	  new SqlSessionFactoryBuilder().build(inputStream);
+	
+	
 }
